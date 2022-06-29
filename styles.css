@@ -3,7 +3,7 @@
 }
 
 body {
-  min-width: 375x;
+  min-width: 375px;
   margin: 0;
   padding: 5px;
 }
@@ -14,7 +14,7 @@ h1 {
 }
 
 .piano {
-  width: max-content;
+  width: fit-content;
   background-color: rgb(48, 48, 48);
   border-radius: 10px;
   margin: 200px auto;
