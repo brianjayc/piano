@@ -14,7 +14,7 @@ h1 {
 }
 
 .piano {
-  width: fit-content;
+  width: max-content;
   background-color: rgb(48, 48, 48);
   border-radius: 10px;
   margin: 200px auto;
